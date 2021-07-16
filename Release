@@ -1,0 +1,8 @@
+Orgin: nuozhen共享软件源
+Label: nuozhen
+Suite: stable
+Version: 0.1-alpha
+Codename: nuozhen
+Architectures: iphoneos-arm
+Components: main
+Description: nuozhen共享软件源，插件均为网络收集。
