@@ -1,0 +1,21 @@
+Package: netskao.bilibilipure
+Version: 1.1-2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 329
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: /home/nuozhen/下载/bilibilipure_1.1-2.deb
+Size: 83658
+MD5sum: 23bea8ec6ed8792e75fca9f4d610db22
+SHA1: 0e15284fef37d82d7c903c6a2001c51ac24dfeb0
+SHA256: d7af4e26c16eee050611a4060637c18e9aa84a4b8dd44b4b7691cc4a56bbbbbe
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bilibilipureDp
+Description: 哔哩哔哩，哔哩哔哩概念版。去除启动广告，去除首页推荐视频中的广告和直播和顶部广告，去除播放页面窗口下方随机出现的广告，去除播放页面推荐视频中随机出现的广告和课程，去除详情页面特定时间出现的B站特惠，去除详横屏播放右上角特定时间出现的限时特惠，去除动态信息流中的广告，去除青少年提示，禁用越狱检测(检测状态表现为购买大会员开通失败)，可选禁用底部按钮，可选禁用我的页面板块等，详情前往哔哩哔哩设置页面右上角设置
+Tag: purpose::extension
+Author: Netskao <netskao@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bilibilipureDp
+Dev: netskao
+Name: 哔哩哔哩净化
+Sponsor: nuozhen.top <https://nuozhen.top/cydia>
+
